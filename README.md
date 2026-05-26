@@ -5,9 +5,12 @@
 
 ## 🎯 Sobre mí
 
-Recién egresado apasionado por transformar datos en decisiones.
-Me especializo en **análisis exploratorio**, **visualización de datos**
-y **modelos de machine learning** aplicados a problemas reales.
+Ingeniero de Sistemas con especialización en Analítica y Ciencia de Datos, con experiencia en manejo,
+organización y gestión de bases de datos, elaboración de reportes y análisis de información para la toma
+de decisiones. Habilidad para validar, depurar y estructurar información proveniente de múltiples fuentes,
+garantizando calidad y exactitud de los datos. Dominio de herramientas ofimáticas avanzadas (Excel, Power
+Query) y SQL, con comunicación asertiva y orientación al trabajo ordenado y confiable en entornos adminis􀀹
+trativos y operativos.
 
 📍 Bucaramanga, Colombia
 📬 andersonblanco729@gmail.com
