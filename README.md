@@ -1,57 +1,68 @@
-# Hola, soy Anderson Fabian Blanco Jaimes
-### 📊 Data Scientist & Data Analyst | Python · SQL · Power BI · ML
+<h1 align="center">Hi , I'm Anderson Blanco <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
----
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Scientist+Jr.;Data+Engineer+Jr.;Data+Analyst+Jr.;Python,+SQL,+AWS,+Power+BI"></a>
+</p>
 
-## 🎯 Sobre mí
 
-Ingeniero de Sistemas con especialización en Analítica y Ciencia de Datos, con experiencia en manejo,
-organización y gestión de bases de datos, elaboración de reportes y análisis de información para la toma
-de decisiones. Habilidad para validar, depurar y estructurar información proveniente de múltiples fuentes,
-garantizando calidad y exactitud de los datos. Dominio de herramientas ofimáticas avanzadas (Excel, Power
-Query) y SQL, con comunicación asertiva y orientación al trabajo ordenado y confiable en entornos adminis􀀹
-trativos y operativos.
 
-📍 Bucaramanga, Colombia
-📬 andersonblanco729@gmail.com
-🔗 [LinkedIn](www.linkedin.com/in/andersonblanco)
 
----
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px></picture> About me
 
-## 🛠️ Stack tecnológico
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<br><br>
 
-**Lenguajes**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+Systems Engineer with a background in backend development, now specializing in Analytics & Data Science at Universidad de Antioquia. Passionate about transforming data into actionable insights through analytics, engineering, and machine learning.
 
-**Análisis & Visualización**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+With experience in production support and cloud-native development, I enjoy solving complex problems, building scalable data solutions, and continuously learning new technologies.
 
-**Machine Learning**
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+- 🔭 Currently building Data Engineering & Analytics projects with Python, SQL, PostgreSQL, Apache Spark, and Power BI
+- 🌱 Currently learning Machine Learning, Data Engineering, Apache Spark, and cloud data architectures
+- 📊 Working on an end-to-end ETL & analytics pipeline using the Open Food Facts dataset following the CRISP-DM methodology
+- 💻 Previous experience in Backend Development with Java, AWS Lambda, and API Gateway
+- ☁️ Experienced with AWS serverless architectures and production systems
+- 🐍 Main stack: Python (pandas, NumPy, scikit-learn), SQL, PostgreSQL, Power BI, Excel, Git
+- 🎯 Interested in Data Engineering, Data Analytics, Business Intelligence, and Machine Learning
+- 🌎 Based in Bucaramanga, Colombia | Open to remote opportunities worldwide
+- 📫 Always open to collaborating on Data Engineering, Data Science, and Analytics projects
+<br><br>
 
-**Herramientas**
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 
----
 
-## 📁 Proyectos destacados
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> My Skills Include
 
-| Proyecto | Descripción | Tecnologías |
-|----------|-------------|-------------|
-| 🏠 [Predicción de Precios de Vivienda](./housing-price-prediction) | Modelo de regresión con 94% de precisión | Python, Scikit-learn, EDA |
-| 📈 [ejemplo](./sales-dashboard) | ejemplo | ejemplo |
+<h4> Data & Analytics </h4>
+<span> 
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Databricks-%23FF3621.svg?style=for-the-badge&logo=databricks&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black">
+  <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
+  
+ 
 
----
+</span>
 
-💡 *"Without data, you're just another person with an opinion."*
+<h4> Software & Cloud </h4>
+<span>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+   
+
+</span>
+<br><br>
+
+
+
+
+💡 **"Without data, you're just another person with an opinion."**
 — W. Edwards Deming
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TU-USUARIO.TU-USUARIO)
